@@ -48,7 +48,7 @@ const Navbar: React.FC<NavBarProps> = ({ handleShow }) => {
     <nav className={navStyles}>
       <div className={styles.container_bottom}>
         <Link to="/" className={styles.title}>
-          Flowy Cart
+          Rana Cart
         </Link>
         <ul className={styles.links}>
           {navData.map((option) => {
