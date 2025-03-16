@@ -30,7 +30,7 @@ const Footer = () => {
       <div className={styles.container}>
         <div className={styles.profile}>
           <div className={styles.nav_wrapper}>
-            <div className={styles.nav_title}>Flowy Cart</div>
+            <div className={styles.nav_title}>Rana Cart</div>
             <div className={styles.subTitle}>
               Unleash your fashion. Find your flow.
             </div>
@@ -58,7 +58,7 @@ const Footer = () => {
               </div>
             </div>
             <div className={styles.subTitle}>
-              All rights reserved.©️ 2024 Flowy Cart
+              All rights reserved.©️ 2025 Rana Cart
             </div>
           </div>
         </div>
